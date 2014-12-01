@@ -5,8 +5,8 @@ NodeJS script to convert NetZero exported list of contacts to CSV
 
 ## Installation
 
-# Install NodeJS (http://nodejs.org/)
-# Clone this repository into an empty folder.
+1. Install NodeJS (http://nodejs.org/)
+2. Clone this repository into an empty folder.
 
 ## Usage
 
