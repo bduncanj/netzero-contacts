@@ -1,0 +1,21 @@
+{
+  "name": "contacts",
+  "version": "0.0.0",
+  "description": "Import NetZero contacts to Gmail",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "netzero",
+    "gmail",
+    "contacts"
+  ],
+  "author": "Duncan Brown",
+  "license": "ISC",
+  "dependencies": {
+    "prompt": "^0.2.14",
+    "lodash": "^2.4.1",
+    "csv-stringify": "0.0.4"
+  }
+}
